@@ -1,5 +1,3 @@
-# BTech4thYear-AlphaTrack
-
 # AlphaTrack: Algo Trading Strategy Simulator
 
 ## Overview
